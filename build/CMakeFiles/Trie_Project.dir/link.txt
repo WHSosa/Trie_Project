@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Trie_Project.dir/cpp/Trie_Project.cpp.o -o Trie_Project  -lpqxx 

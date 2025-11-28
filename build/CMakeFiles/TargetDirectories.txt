@@ -1,0 +1,3 @@
+/home/werner/Desktop/hi/cmps2131/Tire_Project/build/CMakeFiles/Trie_Project.dir
+/home/werner/Desktop/hi/cmps2131/Tire_Project/build/CMakeFiles/edit_cache.dir
+/home/werner/Desktop/hi/cmps2131/Tire_Project/build/CMakeFiles/rebuild_cache.dir
